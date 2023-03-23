@@ -1,6 +1,5 @@
 # Proyect-React-Tasks
-
-# Pagina para la creacion de mini tareas.
+Pagina para la creacion de mini tareas.
 
 
 ## Importante 
