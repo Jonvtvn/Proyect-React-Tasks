@@ -8,9 +8,9 @@ Debera instalar dentro de la carpeta de la aplicación mediante el CMD lo que sa
 
 ```bash
 npm install 
-
+```
 Luego para iniciar la Pagina en CMD tendra que escribir:
 
 ```bash
 npm run dev
-
+```
