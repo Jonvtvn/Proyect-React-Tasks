@@ -13,7 +13,7 @@ Luego para iniciar la Pagina en CMD tendra que escribir:
 ```bash
 npm run dev
 ```
-
 ![1](./src/assets/1.png)
+
 ![2](./src/assets/2.png)
 
